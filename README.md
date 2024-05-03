@@ -1,5 +1,3 @@
-<img align="center" src="readMeHeader.png" alt="Header" width=auto height=auto>
-
 <h1 align="center">Hi 👋, I'm Gurbaaz Cheema</h1>
 <h3 align="center">A passionate student pursuing a Bachelor of Computing at the University of Guelph.</h3>
 
